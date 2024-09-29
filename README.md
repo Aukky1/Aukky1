@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thitiphat.tana@gmail.com**
 
-- 📄 Know about my experiences [https://www.figma.com/design/tozJ2rpKszy3ETJFHI74HD/Untitled?node-id=6-2&m=dev&t=iivfwWvIzramF6Bx-1](https://www.figma.com/design/tozJ2rpKszy3ETJFHI74HD/Untitled?node-id=6-2&m=dev&t=iivfwWvIzramF6Bx-1)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
